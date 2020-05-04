@@ -1,1 +1,1 @@
-f = open()
+f1 = open()
